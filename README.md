@@ -6,7 +6,10 @@ Currently an intern at SAP, where I split my time between product support and bu
 
 ---
 
-## What I work on
+<details>
+<summary><b>What I work on</b></summary>
+<br>
+
 
 Most of my projects start with a problem I keep bumping into. Then I build something. Then other people start using it.
 
@@ -17,25 +20,35 @@ Most of my projects start with a problem I keep bumping into. Then I build somet
 
 The pattern: find friction → remove it → ship it.
 
----
+</details>
 
-## Before software
+<details>
+<summary><b>Before software</b></summary>
+<br>
 
 I worked four years and half as an Electrical Engineering Designer. I was already automating things — Excel/Sheets workflows, project standards, sizing calculations. I also self-taught specialized technical areas and went from "we depend on contractors for this" to "we now have in-house specialized people."
 
 Same instinct, different domain.
+</details>
 
----
-
-## Stack
+<details>
+<summary><b>Stack</b></summary>
+<br>
 
 ```
 Languages     JavaScript · Python · HTML · CSS · SQL (PostgreSQL)
 Certs         CS50 (Harvard) · Claude Code in Action (Anthropic)
 Studying      B.Sc. Electrical Engineering — Unisinos (2022–2028)
 ```
+</details>
 
----
+<details>
+<summary><b>How I work</b></summary>
+<br>
+
+At some point I started hitting real problems — branch chaos, tangled state, code that only I could navigate. So I solved them my own way, and later found out those solutions already had names: gitflow, state management patterns, layered architecture.
+I think that's a good sign. These abstractions exist because everyone runs into the same walls, and understanding why a pattern was invented — what pain it was designed to absorb — I believe is an effective way to learn.
+</details>
 
 ## Arnica F.Q. — CS50x Final Project
  
@@ -47,23 +60,8 @@ The part I'm most proud of is the roster sync. Player state is materialized at e
  
 Other things worth mentioning: a 14-table schema with cascading FK relationships, a `player_stats_cache` with invalidation on roster changes, an `arrived_at` field on presences so late arrivals don't get false bench time attributed to before they showed up, and a global search that joins across every participant in every event type.
  
-The project is live at [arnicafutebolquase.app](https://www.arnicafutebolquase.app) · [Video demo](https://www.youtube.com/watch?v=ObAuJqqad9U)
+The project is live at [arnicafutebolquase.app](https://www.arnicafutebolquase.app) · [Video demo](https://www.youtube.com/watch?v=ObAuJqqad9U) · [Database Schema](https://arnicafutebolquase.app/schema)
 
-
----
-
-## How I work
-
-At some point I started hitting real problems — branch chaos, tangled state, code that only I could navigate. So I solved them my own way, and later found out those solutions already had names: gitflow, state management patterns, layered architecture.
-I think that's a good sign. These abstractions exist because everyone runs into the same walls, and understanding why a pattern was invented — what pain it was designed to absorb — is the part I actually care about. The recipe is just a shortcut to that answer.
-
----
-
-## Currently
-
-- 🛠 Building at "S4DEV" Citizen Developer group at SAP 
-- 📐 Studying EE
-  
 ---
 
 📍 São Leopoldo, Brazil &nbsp;·&nbsp; 🇧🇷 PT / 🇺🇸 EN (C1)
