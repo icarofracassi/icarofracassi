@@ -61,6 +61,7 @@ The part I'm most proud of is the roster sync. Player state is materialized at e
 Other things worth mentioning: a 14-table schema with cascading FK relationships, a `player_stats_cache` with invalidation on roster changes, an `arrived_at` field on presences so late arrivals don't get false bench time attributed to before they showed up, and a global search that joins across every participant in every event type.
  
 The project is live at [arnicafutebolquase.app](https://www.arnicafutebolquase.app) 
+
 For more info: [Video demo](https://www.youtube.com/watch?v=ObAuJqqad9U) · [Database Schema](https://arnicafutebolquase.app/schema) · [Source Code](https://github.com/icarofracassi/arnicafq)
 
 ---
